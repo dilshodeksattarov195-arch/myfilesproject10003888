@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingralculate",
+        "uuid": 25155360,
+        "checksum": "aw48t"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
